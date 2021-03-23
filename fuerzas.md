@@ -10,4 +10,15 @@ En reumen, todas las fuerzas que se muestran tienen propiedades distintas, pero 
 
 Al tener contacto de 2 fuerzas, los electrones se mueven, haciendo que un lado quede cargado positivo (o perdida de electrones), o se cargue negativo ("gane" electrones)
 
-Esto es algo que acurre de forma natural, por eso al tomar una esfera cargada, 
+Esto es algo que acurre de forma natural, por eso al tomar una esfera cargada, los pelos que tengas pueden pararse, tecnicamente estas haciendo que los electrones salgan de tu cuerop a travez de ellos.
+
+## Conucion de benjamin frankling
+
+Cargas opuestas se atraen, cargas similares se repelan:
+
+cargas|Relacion
+-|-
+++|Se repelan
+-+|Se atraen
++-|Se atraen
+--|Se repelan
