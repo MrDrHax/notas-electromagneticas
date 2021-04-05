@@ -1,1 +1,0 @@
-Estoy checando si el remote sirve

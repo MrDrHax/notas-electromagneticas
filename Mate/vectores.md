@@ -38,7 +38,7 @@ $$\vec{u} = <3,4>$$
 $$a = 2$$
 $$a \cdot \vec{u} = <6,8>$$
 
-![Vector Escalado](img/) Dolli pon la cosa aqui
+![Vector Escalado](img/ss2.png) 
 
 ### Suma de vectores
 
@@ -50,7 +50,8 @@ $$\vec{u} = <3,4>$$
 $$\vec{w} = <7,2>$$
 $$\vec{u} + \vec{w} = <(3\cdot7) + (4\cdot2)> = <21,8>$$
 
-![Vector Sumado](img/) Dolli pon la otra cosa aqui
+![Vector Sumado](img/ss3.png) 
+![Vector Sumado](img/ss4.png) 
 
 ### Combinacion de vectores
 
