@@ -139,5 +139,6 @@ size1_slider.on_changed(update)
 size2_slider.on_changed(update)
 charge1_slider.on_changed(update)
 charge2_slider.on_changed(update)
+pointValue_slider.on_changed(update)
 
 plt.show()
